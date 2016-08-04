@@ -10,4 +10,4 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
 6. Keep only those columns which reflect a mean or standard deviation
 7. Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
-The end result is shown in the file tidy_data.txt.
+The end result is shown in the file "tidy_data.txt".
